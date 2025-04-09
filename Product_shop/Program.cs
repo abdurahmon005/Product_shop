@@ -85,9 +85,6 @@ class Program
         }
         Console.WriteLine("\n\nAmaliyot muvaffaqqiyatli bajarildi!");
         
-      ///  Console.Write("1.Mahsulotlar ro'yhati | 2.Sotib olingan mahsulotlar | 3.Sotib olish \n\n\n");
-
-        
 
         Console.Write("qanday amal bajarmoqchisiz: ");
 
